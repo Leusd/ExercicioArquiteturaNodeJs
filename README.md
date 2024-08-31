@@ -4,7 +4,7 @@ Aluno: João Américo Martins Caiafa de Andrade
 
 Professor: Samuel Martins
 
-### Exercício para criação de aplicação Express.
+### Exercício para desenvolver um produto de gerenciamento de tarefas.
 
 ## Como executar
 
